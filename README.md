@@ -4,7 +4,7 @@ En este trabajo práctico aplicamos todos los conceptos de JavaScript y comenzam
 
 ## Live demo
 
-- [Lista de Tareas](https://herreranicolas.github.io/reloj/)
+- [Reloj](https://herreranicolas.github.io/reloj/)
 
 ## Librerias / herramientas 
 
